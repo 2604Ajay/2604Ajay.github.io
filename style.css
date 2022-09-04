@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400;700&family=Edu+TAS+Beginner&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+body {
+
+    background-color:azure;
+    background-repeat:no-repeat ;
+    background-position: center;
+    background-size: cover;
+}
+
+#contentdetails {
+    text-align: justify;
+    font-size: xx-large;
+
+}
