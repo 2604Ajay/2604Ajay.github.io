@@ -33,6 +33,7 @@ function education(){
 }
 function career(){
     console.log("career clicked");
+    console.log("nikta's console")
     ab.style.display="none";
     ho.style.display="none";
     ed.style.display="none";
